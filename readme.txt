@@ -74,11 +74,14 @@ http://www.livehelp.it/vedit/15/contattaci.asp?pagina=1267&lingua=en
 2. In this panel you can configure the widget on frontend.
 == Changelog ==
 
-= 0.1.0 =
+= 1.0.0 =
 * First stable release
 Add LiveHelp chat to you site. Provide fast reliable chat to assist your customer. Cloud based no setup fees. Fully customizable!
-
+= 1.0.1 =
+* Added a new set of seven buttons.
 == Upgrade Notice ==
 
-= 0.1.0 =
-First release of Livehelp plugin
+= 1.0.0 =
+First release of Livehelp plugin.
+= 1.0.1 =
+Second stable release with more features.
