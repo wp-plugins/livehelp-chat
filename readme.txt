@@ -70,8 +70,10 @@ If you have any questions please contact us: info@sostanza.it
 http://www.livehelp.it/vedit/15/contattaci.asp?pagina=1267&lingua=en
 
 == Screenshots ==
+
 1. How to install the plugin
 2. In this panel you can configure the widget on frontend.
+
 == Changelog ==
 
 = 1.0.0 =
