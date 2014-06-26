@@ -1,7 +1,7 @@
 === LiveHelp chat ===
 Contributors: alaciura
 Donate link: http://www.livehelp.it/index.asp?lingua=EN
-Tags: admin, Chat, chat button, chat link, chat live, chat module, chat online, chat plugin, chat support, chat tool, Chat Widget, chatlive, comments, contact us, customer chat, customer service,customer support, free chat, free live chat, free live support, google, help desk chat, helpdesk,helpdesk chat, IM Chat, image, images, links, live chat, live chat button, live chat customer service,live chat link, live chat plugin, live chat software, live chat support, live chat widget, live customer service, live customer support, live help, live help button, live help plugin, live help widget, live support, live support chat, live support plugin, live support software, live support widget, livechat,livechat widget, livehelp, livehelp button, livehelp software, livesupporti, olark, online chat, online customer chat, online customer support, online live chat, online support, page, plugin, plugin chat,Post, posts, provide support, sales automation, sidebar, sidebar chat, support chat, support software, twitter, visitor chat, visitor tracking, web chat, widget, zendesk, Zopim
+Tags: chat button, chat support, free live support, live chat, live chat support, live customer service, live customer support, live support chat, provide support, support chat,  web chat, livehelp
 Requires at least: 3.8.1
 Tested up to: 3.8.1
 Stable tag: 1.0.1
@@ -70,10 +70,8 @@ If you have any questions please contact us: info@sostanza.it
 http://www.livehelp.it/vedit/15/contattaci.asp?pagina=1267&lingua=en
 
 == Screenshots ==
-
 1. How to install the plugin
 2. In this panel you can configure the widget on frontend.
-
 == Changelog ==
 
 = 1.0.0 =
