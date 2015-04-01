@@ -1,4 +1,4 @@
-=== LiveHelp live chat ===
+=== LiveHelp chat ===
 Contributors: alaciura
 Donate link: http://www.livehelp.it/index.asp?lingua=EN
 Tags: live help,chat support, free live support, live chat, live chat support, live customer service, live customer support, live support chat, provide support, support chat,  web chat, livehelp
