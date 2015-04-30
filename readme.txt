@@ -3,7 +3,7 @@ Contributors: alaciura
 Donate link: http://www.livehelp.it/index.asp?lingua=EN
 Tags: live help,chat support, free live support, live chat, live chat support, live customer service, live customer support, live support chat, provide support, support chat,  web chat, livehelp
 Requires at least: 3.8.1
-Tested up to: 4.1.1
+Tested up to: 4.2.1
 Stable tag: 1.2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
