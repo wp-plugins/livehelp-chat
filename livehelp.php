@@ -76,7 +76,7 @@ $response=string2KeyedArray($response);
 			<?}?>			
 			</div>				
 			<div class="row-fluid">								 
-				<div class="colsm-edit-6"> 						
+				<div class="col-6"> 						
 					<div class="list-group">										
 					<!-- CONTENUTO -->								
 						<form method="post" action="<?php echo str_replace( '%7E', '~', $_SERVER['REQUEST_URI']); ?>">									
@@ -142,7 +142,7 @@ $response=string2KeyedArray($response);
 						</form>																
 					</div>						  
 																			 
-				<div class="colsm-edit-6"> 						  
+				<div class="col-6"> 						  
 					<div class="list-group">						  
 						<h1>What is LiveHelp<sup>&reg;</sup>?</h1>								
 						<span class="verde15">LiveHelp<sup>&reg;</sup></span>  is the <span style="font-weight:700; ">chat for customer care</span> easy to use and to integrate.<br><br>Website visitors can chat with an agent of your customer care service and get information about products and services in real time. Only one click to get in contact with a trusted reference.<br><h3><b>15-days free trial!</b></h3>
